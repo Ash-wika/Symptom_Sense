@@ -23,4 +23,4 @@ Symptom Sense is a machine learning-powered tool for predicting diseases based o
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/symptom-sense.git
+   git clone https://github.com/Ash-wika/symptom-sense.git
